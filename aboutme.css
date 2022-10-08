@@ -1,0 +1,69 @@
+.aboutme{
+    align-self: center;
+    margin: 50px 100px 50px 100px;
+    line-height: 40px;
+    position: initial;
+    background-image: linear-gradient(rgb(113, 117, 117), rgb(217, 212, 212));
+    padding: 10px;
+}
+.h2div3{
+    color: rgb(151, 141, 179);
+    padding-bottom: 20px;
+}
+.aboutmeh2{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 300px;
+    color: rgb(255, 255, 255);
+}
+p, table{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
+table a{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    text-decoration: underline;
+    color: black;
+}
+.fa {
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px 50px;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    border-radius: 50%;
+    padding: 15px;
+}
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    border-radius: 10%;
+}
+.fa-instagram {
+    background: rgb(217, 212, 212);
+    color: rgb(201, 8, 76);
+    border-radius: 10%;
+    border: 1px solid rgb(103, 99, 99);
+    padding: 10px 15px 10px 15px;
+}
+.fa:hover{
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.from{
+    text-align: center;
+}
+td{
+    width: 50%;
+}
+.age{
+    text-align: right;
+    padding-right: 100px;
+}

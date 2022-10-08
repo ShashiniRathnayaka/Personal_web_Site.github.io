@@ -1,0 +1,26 @@
+.navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(138, 131, 131);
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+}
+.navbar li{
+    display: inline;  
+}
+li a{
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: large;
+}
+#other:hover{
+    color: white;
+}
+#active{
+    color: white;
+}
